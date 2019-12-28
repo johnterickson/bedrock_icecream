@@ -1,0 +1,18 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "minecraft:ice_cream",
+      "category": "Nature"
+    },
+
+    "components": {
+      "minecraft:icon": "ice_cream",
+      "minecraft:use_duration": 32,
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation_modifier": "low"
+      }
+    }
+  }
+}

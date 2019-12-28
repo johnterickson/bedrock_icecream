@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "icecreampack",
+    "description": "Benny's Ice Cream Pack",
+    "uuid": "016015d1-176a-482f-a5eb-79f5536adaad",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources for Ice Cream Pack",
+      "type": "resources",
+      "uuid": "246b046f-71ef-48fe-b576-5986f1cae7f4",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
