@@ -2,21 +2,20 @@
   "format_version": "1.12",
   "minecraft:recipe_shapeless": {
     "description": {
-    "identifier": "ice_cream:craft/chocolate_ice_cream"
+    "identifier": "ice_cream:craft/cookies_ice_cream"
     },
     "tags": [ "crafting_table" ],
     "group": "dessert",
     "ingredients": [
       {
-        "item": "minecraft:dye",
-        "data": 3
+        "item": "minecraft:cookie"
       },
       {
         "item": "ice_cream:ice_cream"
       }
     ],
     "result": {
-      "item": "ice_cream:chocolate_ice_cream"
+      "item": "ice_cream:cookies_ice_cream"
     }
   }
 }

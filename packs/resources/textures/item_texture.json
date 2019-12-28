@@ -7,6 +7,9 @@
     },
     "chocolate_ice_cream": {
       "textures": "textures/food/chocolate_ice_cream"
+    },
+    "cookies_ice_cream": {
+      "textures": "textures/food/cookies_ice_cream"
     }
   }
 }
