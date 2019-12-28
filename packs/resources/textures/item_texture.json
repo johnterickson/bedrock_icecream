@@ -5,6 +5,9 @@
     "ice_cream": {
       "textures": "textures/food/ice_cream"
     },
+    "cherry_on_top": {
+      "textures": "textures/food/cherry_on_top"
+    },
     "chocolate_ice_cream": {
       "textures": "textures/food/chocolate_ice_cream"
     },

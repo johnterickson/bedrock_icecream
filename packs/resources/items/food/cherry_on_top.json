@@ -1,0 +1,15 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "ice_cream:cherry_on_top",
+      "category": "Equipment"
+    },
+
+    "components": {
+      "minecraft:icon": "cherry_on_top",
+      "minecraft:use_animation": "eat",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

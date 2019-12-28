@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "ice_cream:craft/cherry_on_top"
+    },
+    "tags": [ "crafting_table" ],
+    "group": "dessert",
+    "ingredients": [
+      {
+        "item": "minecraft:sweet_berries"
+      },
+      {
+        "item": "ice_cream:ice_cream"
+      }
+    ],
+    "result": {
+      "item": "ice_cream:cherry_on_top"
+    }
+  }
+}

@@ -4,5 +4,6 @@
 ## comment on the same line, use TABs.
 
 item.ice_cream:ice_cream.name=YumYum Ice Cream
+item.ice_cream:cherry_on_top.name=YumYum Ice Cream with Cherry
 item.ice_cream:chocolate_ice_cream.name=YumYum Chocolate Chip Ice Cream
 item.ice_cream:cookies_ice_cream.name=YumYum Cookies & Cream Ice Cream
