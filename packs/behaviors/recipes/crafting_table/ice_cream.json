@@ -2,11 +2,12 @@
   "format_version": "1.12",
   "minecraft:recipe_shapeless": {
     "description": {
-    "identifier": "minecraft:ice_cream"
+    "identifier": "ice_cream:craft/ice_cream"
     },
 
     
     "tags": [ "crafting_table" ],
+    "group": "dessert",
     "ingredients": [
       {
         "item": "minecraft:ice"
@@ -16,7 +17,7 @@
       }
     ],
     "result": {
-      "item": "minecraft:ice_cream"
+      "item": "ice_cream:ice_cream"
     }
   }
 }

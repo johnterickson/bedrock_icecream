@@ -1,9 +1,9 @@
 {
   "format_version": 1,
   "header": {
-    "name": "icecreampack",
+    "name": "IceCreamPack Behaviors",
     "description": "Benny's Ice Cream Pack",
-    "uuid": "9d7c6aa6-cbed-4a75-bdb5-ca6e6c2e970d",
+    "uuid": "28ef2117-d07d-4ec0-b6be-c5b4203a9f16",
     "version": [
       1,
       0,
@@ -12,9 +12,9 @@
   },
   "modules": [
     {
-      "description": "behaviours for Ice Cream Pack",
-      "type": "client_data",
-      "uuid": "17327b25-11c1-4ad3-9a25-0667ac308a7b",
+      "description": "behaviours for IceCreamPack",
+      "type": "data",
+      "uuid": "36600c5d-9f94-4b92-997f-4a1417775ecf",
       "version": [
         1,
         0,
@@ -24,7 +24,7 @@
   ],
   "dependencies": [
     {
-      "uuid": "016015d1-176a-482f-a5eb-79f5536adaad",
+      "uuid": "a0e7945b-b6d1-4823-b90d-a6bf9c8d2bc9",
       "version": [
         1,
         0,

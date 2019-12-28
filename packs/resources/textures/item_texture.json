@@ -3,7 +3,7 @@
   "texture_name": "atlas.items",
   "texture_data": {
     "ice_cream": {
-      "textures": "textures/items/ice_cream"
+      "textures": "textures/food/ice_cream"
     }
   }
 }
