@@ -1,23 +1,36 @@
 {
   "format_version": "1.12",
-  "minecraft:recipe_shapeless": {
+  "minecraft:recipe_shaped": {
     "description": {
     "identifier": "ice_cream:craft/ice_cream"
     },
-
-    
     "tags": [ "crafting_table" ],
     "group": "dessert",
-    "ingredients": [
-      {
+
+    "pattern": [
+      "ISI",
+      "IBI"
+    ],
+    "key": {
+      "I": {
         "item": "minecraft:ice"
       },
-      {
+      "S": {
         "item": "minecraft:sugar"
+      },
+      "B": {
+        "item": "minecraft:bucket",
+        "data": 1
       }
-    ],
-    "result": {
-      "item": "ice_cream:ice_cream"
-    }
+    },
+    "result": [
+      {
+        "item": "ice_cream:ice_cream"
+      },
+      {
+        "item": "minecraft:bucket",
+        "data": 0
+      }
+    ]
   }
 }
