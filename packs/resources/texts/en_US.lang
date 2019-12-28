@@ -3,4 +3,5 @@
 ## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a
 ## comment on the same line, use TABs.
 
-item.ice_cream:ice_cream.name=Ice Cream
+item.ice_cream:ice_cream.name=YumYum Ice Cream
+item.ice_cream:chocolate_ice_cream.name=YumYum Chocolate Ice Cream

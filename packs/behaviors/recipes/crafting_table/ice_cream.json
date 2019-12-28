@@ -6,7 +6,6 @@
     },
     "tags": [ "crafting_table" ],
     "group": "dessert",
-
     "pattern": [
       "ISI",
       "IBI"
@@ -20,7 +19,7 @@
       },
       "B": {
         "item": "minecraft:bucket",
-        "data": 1
+        "data":1 
       }
     },
     "result": [
